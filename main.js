@@ -13,7 +13,7 @@ const translations = {
     nav_about: "Über\u00A0uns",
     nav_contact: "Kontakt",
     nav_cta: "Jetzt Anfragen",
-    hero_badge: "Ihr Partner",
+    hero_badge: "Ihr digitaler Partner",
     hero_sub: "Ihr digitaler Partner im Alltag",
     hero_btn1: "Kostenlose Beratung \u00A0›",
     hero_btn2: "Unsere Leistungen",
@@ -23,7 +23,7 @@ const translations = {
     trust1: "Sichere Remote-Verbindung",
     trust2: "Zahlung erst bei Erfolg",
     trust3: "Schnelle Bearbeitung",
-    trust4: "Service",
+    trust4: "Zuverlässiger Service",
     trust5: "Gratis Erstberatung",
     svc_label: "Unsere Leistungen",
     svc_title: "Kernkompetenzen im Überblick",
@@ -51,7 +51,7 @@ const translations = {
     s3_l4: "Keine Lösung = Keine Kosten!",
     price_label: "Preise & Services",
     price_title: "Transparente Fixpreise",
-    price_sub: "Keine versteckten Kosten, keine Überraschungen. Höchste Qualität zu den wettbewerbsfähigsten Preisen",
+    price_sub: "Keine versteckten Kosten, keine Überraschungen. Höchste Qualität zu den wettbewerbsfähigsten Preisen .",
     pt_col1: "Dienstleistung",
     pt_col2: "Preis",
     pt_col3: "Details",
@@ -76,7 +76,7 @@ const translations = {
     w2_title: "Zahlung nach Erfolg",
     w2_desc: "Beim IT-Support gehen Sie absolut kein Risiko ein. Sie zahlen erst, wenn Ihr Problem gelöst ist.",
     w3_title: "Top-Preise",
-    w3_desc: "Höchste Qualität zu den wettbewerbsfähigsten Preisen. Fair und transparent.",
+    w3_desc: "Höchste Qualität zu den wettbewerbsfähigsten Preisen . Fair und transparent.",
     w4_title: "Digitale Kompetenz",
     w4_desc: "Von der Website bis zum Behördenformular – wir sind Ihr virtuelles Büro für die Hosentasche.",
     cta_title: "Bereit loszulegen?",
@@ -91,7 +91,7 @@ const translations = {
     footer_contact: "Kontakt",
     footer_imprint: "Impressum",
     footer_privacy: "Datenschutz",
-    langBtn: "🇩🇪 DE"
+    langBtn: "DE"
   },
 
   en: {
@@ -101,7 +101,7 @@ const translations = {
     nav_about: "About\u00A0Us",
     nav_contact: "Contact",
     nav_cta: "Get a Quote",
-    hero_badge: "🇦🇹 Your Partner in Austria",
+    hero_badge: "Your Digital Partner",
     hero_sub: "Your digital partner in everyday life",
     hero_btn1: "Free Consultation \u00A0›",
     hero_btn2: "Our Services",
@@ -111,7 +111,7 @@ const translations = {
     trust1: "Secure Remote Connection",
     trust2: "Pay only on success",
     trust3: "Fast Processing",
-    trust4: "Austrian Service",
+    trust4: "Reliable Service",
     trust5: "Free Initial Consultation",
     svc_label: "Our Services",
     svc_title: "Core Competencies at a Glance",
@@ -139,7 +139,7 @@ const translations = {
     s3_l4: "No solution = No charge!",
     price_label: "Prices & Services",
     price_title: "Transparent Fixed Prices",
-    price_sub: "No hidden costs, no surprises. Highest quality at the most competitive prices in Austria.",
+    price_sub: "No hidden costs, no surprises. Highest quality at the most competitive prices .",
     pt_col1: "Service",
     pt_col2: "Price",
     pt_col3: "Details",
@@ -164,7 +164,7 @@ const translations = {
     w2_title: "Pay After Success",
     w2_desc: "You take absolutely no risk with our IT support. You only pay when your problem is solved.",
     w3_title: "Top Prices",
-    w3_desc: "Highest quality at the most competitive prices in Austria. Fair and transparent.",
+    w3_desc: "Highest quality at the most competitive prices . Fair and transparent.",
     w4_title: "Digital Expertise",
     w4_desc: "From website to official forms – we are your virtual office in your pocket.",
     cta_title: "Ready to get started?",
@@ -179,7 +179,7 @@ const translations = {
     footer_contact: "Contact",
     footer_imprint: "Legal Notice",
     footer_privacy: "Privacy Policy",
-    langBtn: "🇬🇧 EN"
+    langBtn: "EN"
   },
 
   ar: {
@@ -189,7 +189,7 @@ const translations = {
     nav_about: "من\u00A0نحن",
     nav_contact: "اتصل بنا",
     nav_cta: "اطلب الآن",
-    hero_badge: "🇦🇹 شريكك في النمسا",
+    hero_badge: "شريكك الرقمي",
     hero_sub: "شريكك الرقمي في الحياة اليومية",
     hero_btn1: "استشارة مجانية \u00A0›",
     hero_btn2: "خدماتنا",
@@ -199,7 +199,7 @@ const translations = {
     trust1: "اتصال آمن عن بُعد",
     trust2: "الدفع عند النجاح فقط",
     trust3: "معالجة سريعة",
-    trust4: "خدمة نمساوية",
+    trust4: "خدمة موثوقة",
     trust5: "استشارة أولية مجانية",
     svc_label: "خدماتنا",
     svc_title: "كفاءاتنا الأساسية",
@@ -227,7 +227,7 @@ const translations = {
     s3_l4: "لا حل = لا تكلفة!",
     price_label: "الأسعار والخدمات",
     price_title: "أسعار ثابتة وشفافة",
-    price_sub: "لا تكاليف خفية، لا مفاجآت. أعلى جودة بأكثر الأسعار تنافسية في النمسا.",
+    price_sub: "لا تكاليف خفية، لا مفاجآت. أعلى جودة بأكثر الأسعار تنافسية .",
     pt_col1: "الخدمة",
     pt_col2: "السعر",
     pt_col3: "التفاصيل",
@@ -252,7 +252,7 @@ const translations = {
     w2_title: "الدفع بعد النجاح",
     w2_desc: "لا تتحمل أي مخاطرة في خدمة الدعم التقني. تدفع فقط عند حل مشكلتك.",
     w3_title: "أسعار مميزة",
-    w3_desc: "أعلى جودة بأكثر الأسعار تنافسية في النمسا. عادل وشفاف.",
+    w3_desc: "أعلى جودة بأكثر الأسعار تنافسية . عادل وشفاف.",
     w4_title: "كفاءة رقمية",
     w4_desc: "من الموقع الإلكتروني إلى النماذج الرسمية – نحن مكتبك الافتراضي في جيبك.",
     cta_title: "هل أنت مستعد للبدء؟",
@@ -267,15 +267,15 @@ const translations = {
     footer_contact: "اتصل بنا",
     footer_imprint: "إشعار قانوني",
     footer_privacy: "سياسة الخصوصية",
-    langBtn: "🇸🇦 AR"
+    langBtn: "AR"
   }
 };
 
 // ── PAGE TITLES ───────────────────────────────────────────────────────────────
 const pageTitles = {
-  de: 'Online Services – Ihr digitaler Partner',
-  en: 'Online Services – Your Digital Partner in Austria',
-  ar: 'Online Services – شريكك الرقمي في النمسا'
+  de: 'Online Services – Ihr digitaler Partner ',
+  en: 'Online Services – Your Digital Partner ',
+  ar: 'Online Services – شريكك الرقمي '
 };
 
 // ── CURRENT LANGUAGE ──────────────────────────────────────────────────────────
