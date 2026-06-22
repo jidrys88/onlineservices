@@ -13,7 +13,7 @@ const translations = {
     nav_about: "Über\u00A0uns",
     nav_contact: "Kontakt",
     nav_cta: "Jetzt Anfragen",
-    hero_badge: "🇦🇹 Ihr Partner in Österreich",
+    hero_badge: "Ihr Partner",
     hero_sub: "Ihr digitaler Partner im Alltag",
     hero_btn1: "Kostenlose Beratung \u00A0›",
     hero_btn2: "Unsere Leistungen",
@@ -23,7 +23,7 @@ const translations = {
     trust1: "Sichere Remote-Verbindung",
     trust2: "Zahlung erst bei Erfolg",
     trust3: "Schnelle Bearbeitung",
-    trust4: "Österreichischer Service",
+    trust4: "Service",
     trust5: "Gratis Erstberatung",
     svc_label: "Unsere Leistungen",
     svc_title: "Kernkompetenzen im Überblick",
@@ -51,7 +51,7 @@ const translations = {
     s3_l4: "Keine Lösung = Keine Kosten!",
     price_label: "Preise & Services",
     price_title: "Transparente Fixpreise",
-    price_sub: "Keine versteckten Kosten, keine Überraschungen. Höchste Qualität zu den wettbewerbsfähigsten Preisen in Österreich.",
+    price_sub: "Keine versteckten Kosten, keine Überraschungen. Höchste Qualität zu den wettbewerbsfähigsten Preisen",
     pt_col1: "Dienstleistung",
     pt_col2: "Preis",
     pt_col3: "Details",
@@ -76,7 +76,7 @@ const translations = {
     w2_title: "Zahlung nach Erfolg",
     w2_desc: "Beim IT-Support gehen Sie absolut kein Risiko ein. Sie zahlen erst, wenn Ihr Problem gelöst ist.",
     w3_title: "Top-Preise",
-    w3_desc: "Höchste Qualität zu den wettbewerbsfähigsten Preisen in ganz Österreich. Fair und transparent.",
+    w3_desc: "Höchste Qualität zu den wettbewerbsfähigsten Preisen. Fair und transparent.",
     w4_title: "Digitale Kompetenz",
     w4_desc: "Von der Website bis zum Behördenformular – wir sind Ihr virtuelles Büro für die Hosentasche.",
     cta_title: "Bereit loszulegen?",
@@ -273,7 +273,7 @@ const translations = {
 
 // ── PAGE TITLES ───────────────────────────────────────────────────────────────
 const pageTitles = {
-  de: 'Online Services – Ihr digitaler Partner in Österreich',
+  de: 'Online Services – Ihr digitaler Partner',
   en: 'Online Services – Your Digital Partner in Austria',
   ar: 'Online Services – شريكك الرقمي في النمسا'
 };
